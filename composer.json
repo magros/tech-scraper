@@ -1,0 +1,8 @@
+{
+    "name": "marco/dictionary-scrapers",
+    "type": "project",
+    "require": {
+        "fabpot/goutte": "^3.2"
+    },
+    "license": "MIT"
+}
